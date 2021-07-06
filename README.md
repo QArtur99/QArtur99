@@ -1,4 +1,13 @@
-### Hi there 👋
+<p>
+<img align=top style="border-style:solid;" src="https://github-readme-stats.vercel.app/api?username=QArtur99&show_icons=true&include_all_commits=true&count_private=true" width="50%">
+</p>
+
+<!-- <p>
+<img align=top style="border-style:solid;" src="https://github-readme-stats.vercel.app/api?username=QArtur99&show_icons=true&include_all_commits=true&count_private=true" width="50%">
+&nbsp;
+<img align=right style="border-style:solid;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QArtur99&include_all_commits=true&count_private=true&langs_count=8" width="45%">
+</p>
+ -->
 
 <!--
 **QArtur99/QArtur99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
